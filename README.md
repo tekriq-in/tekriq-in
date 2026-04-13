@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="image_0.png" alt="TEKRIQ Technologies Pvt. Ltd. Banner" width="100%">
+  <a href="https://tekriq.in">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&pause=1000&color=2496ED&center=true&vCenter=true&width=800&lines=Welcome+to+TEKRIQ+Technologies;Scalable.+Innovative.+High-Performance.;Building+Digital+Solutions+For+Tomorrow" alt="Typing SVG" />
+  </a>
 </p>
 
 # 🚀 TEKRIQ Technologies Pvt. Ltd.
