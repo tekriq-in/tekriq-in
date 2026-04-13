@@ -1,4 +1,3 @@
-
 <p align="center">
   <img src="image_0.png" alt="TEKRIQ Technologies Pvt. Ltd. Banner" width="100%">
 </p>
@@ -56,7 +55,7 @@ We work with modern technologies to deliver the best results:
 We’d love to work with you or answer any queries!
 
 * 📧 **Email:** [tekriq@gmail.com](mailto:tekriq@gmail.com)
-* 📱 **Phone / WhatsApp:** +91 8072739904
+* 📱 **Phone / WhatsApp:** +91 93440 36861
 * 🌐 **Website:** [tekriq.in](https://tekriq.in)
 
 ### 🌍 Connect With Us
@@ -77,8 +76,7 @@ If you like our work:
 - 🍴 Fork & contribute
 - 📢 Share with your network
 
-### 📄 License
-Licensed under the [MIT License](LICENSE)
+
 
 ### 🔥 Credits
 © 2026 TEKRIQ Technologies Pvt. Ltd. All rights reserved.
